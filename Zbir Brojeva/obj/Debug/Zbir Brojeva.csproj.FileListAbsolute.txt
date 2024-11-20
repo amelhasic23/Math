@@ -1,0 +1,7 @@
+F:\Zbir Brojeva\Zbir Brojeva\bin\Debug\Zbir Brojeva.exe.config
+F:\Zbir Brojeva\Zbir Brojeva\bin\Debug\Zbir Brojeva.exe
+F:\Zbir Brojeva\Zbir Brojeva\bin\Debug\Zbir Brojeva.pdb
+F:\Zbir Brojeva\Zbir Brojeva\obj\Debug\Zbir Brojeva.csproj.AssemblyReference.cache
+F:\Zbir Brojeva\Zbir Brojeva\obj\Debug\Zbir Brojeva.csproj.CoreCompileInputs.cache
+F:\Zbir Brojeva\Zbir Brojeva\obj\Debug\Zbir Brojeva.exe
+F:\Zbir Brojeva\Zbir Brojeva\obj\Debug\Zbir Brojeva.pdb
